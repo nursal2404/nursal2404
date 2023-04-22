@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhadzib Nursaid</h1>
-<h3 align="center">Students focus on the backend from Indonesia</h3>
+<h3 align="center">Undergraduate Student of Informatics Engineering focusing on Backend and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursal2404&label=Profile%20views&color=0e75b6&style=flat" alt="nursal2404" /> </p>
 
